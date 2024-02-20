@@ -1,0 +1,4 @@
+{
+  "extends": ["@rupifi/eslint-config-rupifi"],
+  "ignorePatterns": ["**/*.css", "**/*.scss"]
+}
